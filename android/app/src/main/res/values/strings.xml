@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wild Stripe Trek</string>
+
+    <string name="title_app">WILD STRIPE TREK</string>
+    <string name="splash_tagline">READ THE TRAIL. FIND THE STRIPES.</string>
+    <string name="loading">LOADING</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="next_trail">NEXT TRAIL</string>
+    <string name="menu">MENU</string>
+    <string name="levels">LEVELS</string>
+    <string name="collection">COLLECTION</string>
+    <string name="progress">PROGRESS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="level_select">LEVEL SELECT</string>
+    <string name="expedition_journal">EXPEDITION JOURNAL</string>
+
+    <string name="mark">MARK</string>
+    <string name="sense_label">SENSE %1$d</string>
+    <string name="treks">TREKS</string>
+    <string name="pawprints">PAWPRINTS</string>
+    <string name="best_streak">BEST STREAK</string>
+    <string name="journal">JOURNAL</string>
+    <string name="golden_pages">GOLDEN PAGES</string>
+    <string name="trails_cleared">TRAILS CLEARED</string>
+    <string name="clear_rate">CLEAR RATE</string>
+    <string name="treks_left">TREKS LEFT</string>
+    <string name="treks_walked">TREKS WALKED</string>
+    <string name="treks_saved">TREKS SAVED</string>
+    <string name="stripes">STRIPES</string>
+    <string name="score">SCORE</string>
+
+    <string name="fraction">%1$d/%2$d</string>
+    <string name="percent_value">%1$d%%</string>
+    <string name="level_number">%1$d</string>
+    <string name="menu_level_line">LEVEL %1$d · %2$s</string>
+    <string name="page_number">PAGE %1$d</string>
+
+    <string name="menu_footer_hint">TAP TILES · READ THE SIGNS · FIND EVERY PAWPRINT</string>
+    <string name="menu_empty">NO TREK YET - START AT CAMP ONE</string>
+    <string name="game_hint">TAP TO PART THE LEAVES · MARK MODE FLAGS A NEST</string>
+    <string name="game_hint_mark">MARK MODE ON - TAP TO FLAG</string>
+
+    <string name="outcome_complete">TRAIL COMPLETE</string>
+    <string name="outcome_nest">NEST UNDERFOOT</string>
+    <string name="outcome_cold">TRAIL GONE COLD</string>
+    <string name="journal_page_recovered">JOURNAL PAGE %1$d RECOVERED</string>
+    <string name="golden_page_recovered">GOLDEN PAGE RECOVERED</string>
+    <string name="hard_trail_bonus">+150 HARD TRAIL BONUS</string>
+
+    <string name="journal_empty">THE JOURNAL IS EMPTY - CLEAR A TRAIL TO RECOVER ITS PAGE</string>
+    <string name="progress_empty">NO EXPEDITION LOGGED YET</string>
+    <string name="trail_by_trail">TRAIL BY TRAIL</string>
+    <string name="locked">LOCKED</string>
+    <string name="level_locked_message">CLEAR LEVEL %1$d TO OPEN THIS TRAIL</string>
+
+    <string name="leave_title">LEAVE THE TRAIL?</string>
+    <string name="leave_text">THE TREK ENDS HERE AND THIS ATTEMPT IS NOT SCORED.</string>
+    <string name="leave">LEAVE</string>
+    <string name="stay">STAY</string>
+    <string name="paused">PAUSED</string>
+    <string name="paused_text">THE TRAIL WAITS. NOTHING MOVES WHILE YOU REST.</string>
+    <string name="resume">RESUME</string>
+    <string name="close">CLOSE</string>
+
+    <string name="default_tap">DEFAULT TAP</string>
+    <string name="default_tap_hint">WHAT A BARE TILE TAP DOES FIRST</string>
+    <string name="reveal">REVEAL</string>
+    <string name="safe_first_step">SAFE FIRST STEP</string>
+    <string name="safe_first_hint">GUARANTEE A NEST FREE OPENING MOVE</string>
+    <string name="safe_first_state">SAFE FIRST STEP: %1$s</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_progress_hint">ERASE LEVELS STRIPES AND JOURNAL PAGES</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+    <string name="confirm_reset_title">ERASE THE EXPEDITION?</string>
+    <string name="confirm_reset_text">EVERY TRAIL STRIPE AND JOURNAL PAGE WILL BE LOST.</string>
+    <string name="expedition_erased">EXPEDITION ERASED</string>
+
+    <string name="cd_logo">Wild Stripe Trek emblem</string>
+    <string name="cd_tiger">tiger guide</string>
+    <string name="cd_pawprint">golden pawprint</string>
+    <string name="cd_nest">viper nest</string>
+    <string name="cd_journal">expedition journal page</string>
+    <string name="cd_flag">claw mark flag</string>
+    <string name="cd_home">leave the trail</string>
+    <string name="cd_pause">pause the trek</string>
+    <string name="sd_mark_on">mark mode on</string>
+    <string name="sd_mark_off">mark mode off</string>
+    <string name="sd_locked">locked</string>
+    <string name="sd_hidden">hidden tile</string>
+    <string name="sd_revealed">revealed tile</string>
+    <string name="sd_flagged">flagged tile</string>
+    <string name="sd_selected">selected</string>
+    <string name="pawprint_progress">%1$d of %2$d pawprints found</string>
+    <string name="trek_progress">%1$d treks left</string>
+
+    <string name="region_1">THE RIVER CROSSING</string>
+    <string name="region_2">BAMBOO HOLLOW</string>
+    <string name="region_3">MONSOON RIDGE</string>
+    <string name="region_4">THE SALT LICK</string>
+    <string name="region_5">FIG TREE CLEARING</string>
+    <string name="region_6">VIPER GULLY</string>
+    <string name="region_7">STONE FORD</string>
+    <string name="region_8">DAWN THICKET</string>
+    <string name="region_9">THE BROKEN HIDE</string>
+    <string name="region_10">RIDGE OF NINE STRIPES</string>
+    <string name="region_11">ELEPHANT GRASS</string>
+    <string name="region_12">THE LAST PUGMARK</string>
+
+    <string name="journal_title_1">Camp One: The River Crossing</string>
+    <string name="journal_title_2">Bamboo Hollow</string>
+    <string name="journal_title_3">Monsoon Ridge</string>
+    <string name="journal_title_4">The Salt Lick</string>
+    <string name="journal_title_5">Fig Tree Clearing</string>
+    <string name="journal_title_6">Viper Gully</string>
+    <string name="journal_title_7">Stone Ford</string>
+    <string name="journal_title_8">Dawn Thicket</string>
+    <string name="journal_title_9">The Broken Hide</string>
+    <string name="journal_title_10">Ridge of Nine Stripes</string>
+    <string name="journal_title_11">Elephant Grass</string>
+    <string name="journal_title_12">The Last Pugmark</string>
+
+    <string name="journal_log_1">Waterline still wet. Her stride lengthened at the ford.</string>
+    <string name="journal_log_2">Four nests in nine paces. We went around.</string>
+    <string name="journal_log_3">Rain filled the pugmarks before noon; the ridge kept the shape.</string>
+    <string name="journal_log_4">She circled twice here, then chose the northern slope.</string>
+    <string name="journal_log_5">Claw marks at shoulder height. Territory, not warning.</string>
+    <string name="journal_log_6">Counted eight coils. Counted them twice. Walked the rim.</string>
+    <string name="journal_log_7">The stones remember nothing. The mud across them does.</string>
+    <string name="journal_log_8">Fresh prints over last night\'s rain. We are close now.</string>
+    <string name="journal_log_9">Porter\'s hide tent, shredded, abandoned. No blood.</string>
+    <string name="journal_log_10">Nine clean bands on the flank, seen at forty paces.</string>
+    <string name="journal_log_11">Grass bent in a single line. Something heavy, unhurried.</string>
+    <string name="journal_log_12">Here the trail ends and the journal is whole.</string>
+</resources>
